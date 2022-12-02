@@ -1,1 +1,7 @@
-# Machine_Learning_in_Japanese_Text_Mining_to_Explore_the_Sentiment_Analysis_of_Product_Evaluation
+# 應用機器學習於日文詞彙文字探勘探討商品評價之情緒分析
+
+各位好
+
+論文中所使用之程式皆包含於此，並包含所使用之詞庫與評價資料。所有程式檔名依照論文之程式碼目錄排序所命名（例：code_3-1.py）
+
+感謝
